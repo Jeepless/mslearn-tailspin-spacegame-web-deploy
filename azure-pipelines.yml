@@ -1,6 +1,6 @@
 trigger:
 - '*'
-#klasjdfl;ajkhs
+
 variables:
   buildConfiguration: 'Release'
 
